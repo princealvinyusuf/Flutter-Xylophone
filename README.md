@@ -9,6 +9,7 @@ What i learn from this project:
 * Dart arrow syntax for writing one line functions.
 
 # Screenshot
-![alt text](https://github.com/princealvinyusuf/Xylophone/blob/main/images/ios.png?raw=true)
+![alt text](https://github.com/princealvinyusuf/Xylophone/blob/main/images/ios.png?raw=true) 
+![alt text](https://github.com/princealvinyusuf/Xylophone/blob/main/images/android.png?raw=true)
 
 
