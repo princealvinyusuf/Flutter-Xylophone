@@ -7,3 +7,8 @@ What i learn from this project:
 * How to generate repeated user interface Widgets. 
 * How to use Dart functions that can take input arguments as well as return an output. 
 * Dart arrow syntax for writing one line functions.
+
+# Screenshot
+![alt text](https://github.com/princealvinyusuf/Xylophone/blob/main/images/ios.png?raw=true)
+
+
